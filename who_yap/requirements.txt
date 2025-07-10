@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+sentence-transformers
+supabase
+python-dotenv
+openai
+psycopg2-binary 

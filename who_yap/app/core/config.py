@@ -1,0 +1,8 @@
+
+class SupabaseConfig:
+    SUPABASE_URL = "https://wfromyaygioqgpemrpww.supabase.co"
+    SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Indmcm9teWF5Z2lvcWdwZW1ycHd3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTE0NjM2MjMsImV4cCI6MjA2NzAzOTYyM30.6nFrlwUNBYdHPqtHvmjttBUeSobJmFvHK3r2vMvhw_w"
+
+class LlamaConfig:
+    BASE_URL ='http://localhost:11434'
+    MODEL_NAME = 'llama3'
